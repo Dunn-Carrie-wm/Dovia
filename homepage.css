@@ -1,17 +1,17 @@
-#body{
+body{
     height: 1000px;
     width: 1000px;
+    background-image: url("http://ndl.mgccw.com/mu3/wallpaper/20140621/00/1403289995750/wallpaper-1425820.jpg");
 }
+
 
 #container{
     height: 1000px;
     width: 1000px;
-    background-color: crimson;
 }
 #header{
     height: 150px;
     width: 1000px;
-    background-color: deeppink;
     padding: 10px;
     margin-top: 20px;
 
@@ -19,12 +19,11 @@
 #picture{
     height: 300px;
     width: 1000px;
-    background-color: green;
     padding: 10px;
     margin-top: 30px;
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/red_apple_211248.jpg");
 }
 #signIn{
-    background-color: chartreuse;
     height: 100px;
     width: 450px;
     padding: 10px;
@@ -32,7 +31,6 @@
     margin-top: 35px;
 }
 #logIn{
-    background-color: aqua;
     height: 100px;
     width: 450px;
     float: right;
