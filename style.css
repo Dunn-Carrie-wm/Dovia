@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    background-image: url("http://www.wallpaper1080hd.com/Picture/allimg/c110828/13144ZZ942060-52X4.jpg");
+    background-size:999px 980px;
+}
+#Header{
+    text-align: center;
+    color:turquoise;
+}
+#Login{
+    text-align: center;
+    color: darkturquoise;
+}

@@ -2,9 +2,33 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Dovia</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+  <div id="Header">
+      <h1>DOVIA</h1>
+  </div>
+<div id="Login">
+    <form method="post" action="LoginPage.html">
+        <p> <input type="email" name="login" value=" " placeholder="Username or E-mail"></p>
+        <p> <input type="password" name="password" value=" " placeholder="Password"></p>
+        <p class="remember_me">
+            <label>
+                <input type="checkbox" name="remember_me" id="remember_me">
+                Remember me
+            </label>
+        </p>
+        <p class="submit"><input type="submit" name="commit" value="Login"></p>
+
+    </form>
+    <div class="login-help">
+        <p>Forgot your password? <a href="LoginPage.html">Click here to reset it</a>.</p>
+   </div>
+  <p class="this">
+      ©2015 Dovia
+  </p>
+</div>
 
 </body>
 </html>
