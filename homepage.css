@@ -21,7 +21,8 @@ body{
     width: 1000px;
     padding: 10px;
     margin-top: 30px;
-    background-image: url("http://images.all-free-download.com/images/graphiclarge/red_apple_211248.jpg");
+    background-image: url("https://overland.org.au/wp-content/black-hole-600x250.jpg");
+    opacity: .78;
 }
 #signIn{
     height: 100px;

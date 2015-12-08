@@ -197,4 +197,8 @@ div{
     /*connector not needed before the first step*/
     content: none;
 }
-
+#button{
+    float: right;
+    height: 100px;
+    width: 300px;
+}
